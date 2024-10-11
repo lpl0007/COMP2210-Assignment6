@@ -1,4 +1,4 @@
-# COMP2210-Assignment6
+# COMP 2210: Assignment 6
 
 ## Problem Overview
 The focus of the assignment is to implement a word connection game that has been played in one variation or another for almost 150 years. The object of the game is to transform a start word into an end word of the same length by a sequence of steps, each of which consists of a one-letter change to the current word that results in another legal word. Charles Lutwidge Dodsgon (Lewis Carroll) invented this game and called it “Doublets.” It’s now more commonly known as Word Ladders.
